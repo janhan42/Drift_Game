@@ -1,0 +1,2 @@
+CompileFlags:
+ Add: [-I/Users/janhan/Drift_Game/SFML/include, -I/Users/janhan/Drift_Game/src, -std=c++14]
